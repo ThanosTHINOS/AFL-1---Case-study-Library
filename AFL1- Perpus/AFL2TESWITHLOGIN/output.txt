@@ -1,0 +1,58 @@
+OUTPUT BUAT MAHASISWA
+=======================================================
+Masukkan username:
+user1
+Masukkan password:
+password1
+Masukkan nama Mahasiswa:
+Valentino
+Masukkan NIM Mahasiswa:
+0806022310022
+Apakah ingin meminjam CD atau buku? (cd/buku):
+buku
+Masukkan judul buku yang ingin dipinjam:
+Bawang merah
+Buku Bawang merah telah berhasil dipinjam oleh Valentino
+=======================================================
+Masukkan username:
+user1
+Masukkan password:
+password1
+Masukkan nama Mahasiswa:
+Valentino
+Masukkan NIM Mahasiswa:
+0806022310022
+Apakah ingin meminjam CD atau buku? (cd/buku):
+cd
+Masukkan judul CD yang ingin dipinjam:
+Lala
+CD Lala telah berhasil dipinjam oleh TIno
+
+
+OUTPUT BUAT DOSEN
+=======================================================
+Masukkan username:
+user2
+Masukkan password:
+password2
+Masukkan nama Dosen:
+Mr.tino
+Masukkan NIK Dosen:
+12345 
+Apakah ingin melakukan tindakan tertentu? (ya/tidak):
+ya
+Masukkan tindakan yang ingin dilakukan oleh dosen Mr.tino:
+Meminjam buku
+Dosen Mr.tino telah melakukan tindakan: Meminjam buku
+=======================================================
+Masukkan username:
+user2   
+Masukkan password:
+password2
+Masukkan nama Dosen:
+Tino
+Masukkan NIK Dosen:
+12345
+Apakah ingin melakukan tindakan tertentu? (ya/tidak):
+tidak
+Terima kasih, tidak ada tindakan yang dilakukan.
